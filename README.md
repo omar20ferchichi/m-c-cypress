@@ -9,7 +9,7 @@ This repository contains automated test scripts for the SauceDemo website. The p
 ### 1. Clone the Repository
 
 ```bash
-git clone https://githu
+git clone https://github.com/omar20ferchichi/m-c-cypress
 cd your-repo-name
 ```
 ### 2. installations
